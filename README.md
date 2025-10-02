@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Izabella%20Hermano&fontSize=40&fontColor=d8d8c7&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Izabella%20Hermano&fontSize=40&fontColor=b6bebd&animation=fadeIn&fontAlignY=35" />
 </p>
 <h1 align="center">🌸 Bem-vinda(o) ao meu GitHub 🌸</h1>
 <p align="center">
@@ -12,8 +12,8 @@
 
 <h2>📊 Minhas estatísticas:</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IzabellaHermano&show_icons=true&theme=rose_pine&title_color=ff69b4&icon_color=ff69b4&text_color=d8d8c7&bg_color=FADADD" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaHermano&layout=compact&theme=rose_pine&title_color=ff69b4&text_color=d8d8c7&bg_color=FADADD" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IzabellaHermano&show_icons=true&theme=rose_pine&title_color=ff69b4&icon_color=ff69b4&text_color=b6bebd&bg_color=FADADD" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaHermano&layout=compact&theme=rose_pine&title_color=ff69b4&text_color=b6bebd&bg_color=FADADD" height="180"/>
 </p>
 
 <h2>🚀 Tecnologias que uso:</h2>
