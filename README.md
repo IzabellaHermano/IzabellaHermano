@@ -12,7 +12,7 @@
 
 <h2>📊 Minhas estatísticas:</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IzabellaHermano&show_icons=true&theme=rose_pine&title_color=ff69b4&icon_color=ff69b4&text_color=000000&bg_color=FADADD" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IzabellaHermano&show_icons=true&theme=rose_pine&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=FADADD" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaHermano&layout=compact&theme=rose_pine&title_color=ff69b4&text_color=000000&bg_color=FADADD" height="180"/>
 </p>
 
