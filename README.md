@@ -7,7 +7,7 @@
 👩‍💻 Tenho <b>19 anos</b><br>
 🎓 Curso <b>ADS</b> na <b>FATEC</b><br>
 🚀 Exploro <b>Front-end</b>, <b>Back-end</b> e muito mais<br>
-💻 Linguagens principais: <b>Java, HTML, CSS, JavaScript e C</b>
+💻 Linguagens principais: <b>Java, HTML, CSS, JavaScript e Kotlin</b>
 </p>
 
 <h2>📊 Minhas estatísticas:</h2>
@@ -22,7 +22,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" height="60"/>
 </p>
 
