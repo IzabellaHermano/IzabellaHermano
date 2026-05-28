@@ -51,9 +51,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IzabellaHermano&show_icons=true&bg_color=1a0a10&border_color=e91e8c&title_color=e91e8c&text_color=fce4ec&icon_color=f06292&hide_border=false&custom_title=GitHub+Stats&rank_icon=github" width="400" alt="GitHub Stats"/>
+  <img src="./assets/stats_card.svg" width="420" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IzabellaHermano&background=1a0a10&border=e91e8c&ring=e91e8c&fire=f06292&currStreakLabel=fce4ec&sideLabels=fce4ec&dates=ad1457&currStreakNum=ffffff&sideNums=ffffff" width="360" alt="GitHub Streak"/>
+  <img src="./assets/streak_card.svg" width="380" alt="GitHub Streak"/>
 </p>
 
 <br/><br/>
