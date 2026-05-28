@@ -1,147 +1,85 @@
-````md
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:f8b6ff&height=220&section=header&text=Izabella%20Hermano&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20•%20Data%20Science%20•%20Development&descAlignY=55"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d63384,ad1457&height=220&section=header&text=Izabella%20Hermano&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ADS%20%C2%B7%20FATEC%20%C2%B7%20Full%20Stack%20%26%20Mobile&descSize=16&descAlignY=58&descColor=fce4ec" />
 </p>
 
-<h1 align="center">🌸 Hello, World! 🌸</h1>
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=25&center=true&vCenter=true&width=700&lines=ADS+Student+at+FATEC;Backend+Developer;Learning+Data+Science;Java+%7C+Python+%7C+C%2B%2B;Always+learning+new+technologies+%F0%9F%92%96">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1000&color=E91E8C&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack+%F0%9F%8C%B8;Mobile+Dev+com+Kotlin+%2B+Jetpack+Compose;Scrum+Master+%7C+TCC+em+andamento+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
----
-
-## 💖 Sobre mim
-
-```python
-class Izabella:
-    idade = 19
-    faculdade = "FATEC"
-    curso = "Análise e Desenvolvimento de Sistemas"
-
-    aprendendo = [
-        "Python",
-        "C++",
-        "Java",
-        "Data Science",
-        "Back-end"
-    ]
-
-    linguagens = [
-        "Java",
-        "Python",
-        "C++",
-        "C",
-        "JavaScript",
-        "Kotlin"
-    ]
-
-    banco_de_dados = [
-        "MySQL",
-        "PostgreSQL"
-    ]
-````
-
-🎓 Estudante de ADS na FATEC
-💻 Apaixonada por tecnologia e desenvolvimento
-🚀 Explorando Front-end, Back-end e Ciência de Dados
-🌸 Sempre buscando aprender algo novo
-
----
-
-# 🚀 Tecnologias & Ferramentas
+<br/>
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60"/>
-
+  <img src="https://img.shields.io/badge/19%20anos-%23e91e8c?style=for-the-badge&labelColor=2d0f1e&color=e91e8c" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ADS-FATEC%20S%C3%A3o%20Paulo-%23ad1457?style=for-the-badge&labelColor=2d0f1e&color=ad1457" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scrum%20Master-%23c2185b?style=for-the-badge&labelColor=2d0f1e&color=c2185b" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 🌸 Tecnologias
 
 <p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=izabellahermano&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117"
-  />
-
-<img 
- height="180em" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabellahermano&layout=compact&langs_count=8&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=0d1117"
-/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" title="Spring Boot"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" title="Kotlin"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" title="C++"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" title="C"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/>
 </p>
 
 ---
 
-# 🌸 Contribuições
+## 📊 Linguagens nos repositórios
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=izabellahermano&bg_color=0d1117&color=ff69b4&line=f8b6ff&point=ffffff&area=true&hide_border=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut&theme=radical&bg_color=1a0a10&border_color=e91e8c&title_color=e91e8c&text_color=fce4ec&langs_count=8&hide_border=false" width="340" alt="Top Languages"/>
 </p>
 
 ---
 
-# 🐍 Snake Animation
+## 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github.com/izabellahermano/izabellahermano/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&bg_color=1a0a10&border_color=e91e8c&title_color=e91e8c&text_color=fce4ec&icon_color=f06292&hide_border=false" width="420" alt="GitHub Stats"/>
 </p>
 
 ---
 
-# 👀 Visitas no perfil
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=izabellahermano&color=ff69b4&style=for-the-badge"/>
-</p>
-
----
-
-# 📫 Contato
+## 📫 Contato
 
 <p align="center">
   <a href="mailto:izabellahermano1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-izabellahermano1%40gmail.com-%23e91e8c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d0f1e" />
   </a>
-
-  <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-f8b6ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/izabella-hermano/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Izabella%20Hermano-%23ad1457?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d0f1e" />
   </a>
 </p>
 
----
-
-# 🌸 Atualmente estudando
+<br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql,postgres,kotlin,javascript,html,css"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d63384,ad1457&height=120&section=footer" />
 </p>
-
----
-
-<p align="center">
-  💖 Obrigada por visitar meu perfil 💖
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:f8b6ff,100:ff69b4&height=120&section=footer"
-  />
-</p>
-```
