@@ -1,0 +1,32 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#d63384"/>
+      <stop offset="50%" style="stop-color:#e91e8c"/>
+      <stop offset="100%" style="stop-color:#ad1457"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c2185b;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#f06292;stop-opacity:0.3"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="220" fill="url(#bg)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="820" cy="40" r="120" fill="none" stroke="white" stroke-width="0.8" opacity="0.1"/>
+  <circle cx="820" cy="40" r="80" fill="none" stroke="white" stroke-width="0.8" opacity="0.08"/>
+  <circle cx="80" cy="190" r="90" fill="none" stroke="white" stroke-width="0.8" opacity="0.08"/>
+  <circle cx="820" cy="40" r="40" fill="white" opacity="0.04"/>
+
+  <!-- Wave bottom shape -->
+  <path d="M0,160 Q225,220 450,180 Q675,140 900,190 L900,220 L0,220 Z" fill="#1a0a10" opacity="0.5"/>
+  <path d="M0,175 Q225,210 450,195 Q675,175 900,200 L900,220 L0,220 Z" fill="#1a0a10"/>
+
+  <!-- Name -->
+  <text x="450" y="95" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700" fill="white" letter-spacing="2">Izabella Hermano</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="300" fill="#fce4ec" letter-spacing="6" opacity="0.85">ADS · FATEC · FULL STACK &amp; MOBILE</text>
+</svg>

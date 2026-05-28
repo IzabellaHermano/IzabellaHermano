@@ -1,0 +1,112 @@
+<svg width="480" height="300" viewBox="0 0 480 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&amp;family=DM+Sans:wght@300;400;500&amp;display=swap');
+    </style>
+    <clipPath id="card-clip">
+      <rect width="480" height="300" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="480" height="300" rx="16" fill="#1a0a10"/>
+
+  <!-- Subtle pattern circles -->
+  <circle cx="420" cy="40" r="80" fill="none" stroke="#e91e8c" stroke-width="0.5" opacity="0.15"/>
+  <circle cx="420" cy="40" r="120" fill="none" stroke="#e91e8c" stroke-width="0.5" opacity="0.08"/>
+  <circle cx="60" cy="270" r="60" fill="none" stroke="#e91e8c" stroke-width="0.5" opacity="0.1"/>
+
+  <!-- Title -->
+  <text x="24" y="38" font-family="Georgia, serif" font-size="15" font-weight="700" fill="#e91e8c" letter-spacing="2">linguagens nos repositórios</text>
+  <line x1="24" y1="46" x2="456" y2="46" stroke="#e91e8c" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- Donut chart center at (140, 175) r=80, stroke-width=28 -->
+  <!-- Track -->
+  <circle cx="140" cy="175" r="68" fill="none" stroke="#2d0f1e" stroke-width="26"/>
+
+  <!-- Java 40% = 0.40 * 427.26 = 170.9, offset=0 -->
+  <circle cx="140" cy="175" r="68" fill="none" stroke="#e91e8c" stroke-width="26"
+    stroke-dasharray="170.9 256.36"
+    stroke-dashoffset="0"
+    transform="rotate(-90 140 175)"/>
+
+  <!-- Kotlin 20% = 85.45, offset = -(427.26-170.9) = comes after Java -->
+  <circle cx="140" cy="175" r="68" fill="none" stroke="#f06292" stroke-width="26"
+    stroke-dasharray="85.45 341.81"
+    stroke-dashoffset="-170.9"
+    transform="rotate(-90 140 175)"/>
+
+  <!-- Python 15% = 64.09, offset after kotlin -->
+  <circle cx="140" cy="175" r="68" fill="none" stroke="#ad1457" stroke-width="26"
+    stroke-dasharray="64.09 363.17"
+    stroke-dashoffset="-256.35"
+    transform="rotate(-90 140 175)"/>
+
+  <!-- C/C++ 12% = 51.27 -->
+  <circle cx="140" cy="175" r="68" fill="none" stroke="#c2185b" stroke-width="26"
+    stroke-dasharray="51.27 375.99"
+    stroke-dashoffset="-320.44"
+    transform="rotate(-90 140 175)"/>
+
+  <!-- JavaScript 8% = 34.18 -->
+  <circle cx="140" cy="175" r="68" fill="none" stroke="#f8bbd9" stroke-width="26"
+    stroke-dasharray="34.18 393.08"
+    stroke-dashoffset="-371.71"
+    transform="rotate(-90 140 175)"/>
+
+  <!-- HTML/CSS 5% = 21.36 -->
+  <circle cx="140" cy="175" r="68" fill="none" stroke="#fce4ec" stroke-width="26"
+    stroke-dasharray="21.36 405.9"
+    stroke-dashoffset="-405.89"
+    transform="rotate(-90 140 175)"/>
+
+  <!-- Center label -->
+  <text x="140" y="169" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#ffffff">7</text>
+  <text x="140" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#f5bcd4" letter-spacing="2">LANGS</text>
+
+  <!-- Legend -->
+  <!-- Java -->
+  <circle cx="272" cy="86" r="5" fill="#e91e8c"/>
+  <text x="284" y="91" font-family="Arial, sans-serif" font-size="12" fill="#f5e6ed">Java</text>
+  <rect x="340" y="83" width="80" height="3" rx="2" fill="#2d0f1e"/>
+  <rect x="340" y="83" width="32" height="3" rx="2" fill="#e91e8c"/>
+  <text x="430" y="91" font-family="Arial, sans-serif" font-size="11" fill="#e91e8c" font-weight="500">40%</text>
+
+  <!-- Kotlin -->
+  <circle cx="272" cy="116" r="5" fill="#f06292"/>
+  <text x="284" y="121" font-family="Arial, sans-serif" font-size="12" fill="#f5e6ed">Kotlin</text>
+  <rect x="340" y="113" width="80" height="3" rx="2" fill="#2d0f1e"/>
+  <rect x="340" y="113" width="16" height="3" rx="2" fill="#f06292"/>
+  <text x="430" y="121" font-family="Arial, sans-serif" font-size="11" fill="#e91e8c" font-weight="500">20%</text>
+
+  <!-- Python -->
+  <circle cx="272" cy="146" r="5" fill="#ad1457"/>
+  <text x="284" y="151" font-family="Arial, sans-serif" font-size="12" fill="#f5e6ed">Python</text>
+  <rect x="340" y="143" width="80" height="3" rx="2" fill="#2d0f1e"/>
+  <rect x="340" y="143" width="12" height="3" rx="2" fill="#ad1457"/>
+  <text x="430" y="151" font-family="Arial, sans-serif" font-size="11" fill="#e91e8c" font-weight="500">15%</text>
+
+  <!-- C / C++ -->
+  <circle cx="272" cy="176" r="5" fill="#c2185b"/>
+  <text x="284" y="181" font-family="Arial, sans-serif" font-size="12" fill="#f5e6ed">C / C++</text>
+  <rect x="340" y="173" width="80" height="3" rx="2" fill="#2d0f1e"/>
+  <rect x="340" y="173" width="10" height="3" rx="2" fill="#c2185b"/>
+  <text x="430" y="181" font-family="Arial, sans-serif" font-size="11" fill="#e91e8c" font-weight="500">12%</text>
+
+  <!-- JavaScript -->
+  <circle cx="272" cy="206" r="5" fill="#f8bbd9"/>
+  <text x="284" y="211" font-family="Arial, sans-serif" font-size="12" fill="#f5e6ed">JavaScript</text>
+  <rect x="340" y="203" width="80" height="3" rx="2" fill="#2d0f1e"/>
+  <rect x="340" y="203" width="6" height="3" rx="2" fill="#f8bbd9"/>
+  <text x="430" y="211" font-family="Arial, sans-serif" font-size="11" fill="#e91e8c" font-weight="500">8%</text>
+
+  <!-- HTML/CSS -->
+  <circle cx="272" cy="236" r="5" fill="#fce4ec"/>
+  <text x="284" y="241" font-family="Arial, sans-serif" font-size="12" fill="#f5e6ed">HTML / CSS</text>
+  <rect x="340" y="233" width="80" height="3" rx="2" fill="#2d0f1e"/>
+  <rect x="340" y="233" width="4" height="3" rx="2" fill="#fce4ec"/>
+  <text x="430" y="241" font-family="Arial, sans-serif" font-size="11" fill="#e91e8c" font-weight="500">5%</text>
+
+  <!-- Bottom note -->
+  <text x="24" y="285" font-family="Arial, sans-serif" font-size="9" fill="#f5bcd4" opacity="0.5" letter-spacing="1">* estimativa baseada nos repositórios públicos</text>
+</svg>
