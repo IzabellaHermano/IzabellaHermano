@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1000&color=E91E8C&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack+%F0%9F%8C%B8;Mobile+Dev+com+Kotlin+%2B+Jetpack+Compose;Scrum+Master+%7C+TCC+em+andamento+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1000&color=E91E8C&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack+%F0%9F%8C%B8;Mobile+Dev+com+Kotlin+%2B+Jetpack+Compose;Java+%7C+Python+%7C+C+%2B%2B+%7C+Kotlin" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -15,37 +15,17 @@
   &nbsp;
   <img src="https://img.shields.io/badge/ADS-FATEC%20S%C3%A3o%20Paulo-%23ad1457?style=for-the-badge&labelColor=2d0f1e&color=ad1457" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Scrum%20Master-%23c2185b?style=for-the-badge&labelColor=2d0f1e&color=c2185b" />
+  <img src="https://img.shields.io/badge/São%20Paulo%20🌆-%23c2185b?style=for-the-badge&labelColor=2d0f1e&color=c2185b" />
 </p>
+
+<br/>
 
 ---
 
 ## 🌸 Tecnologias
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" title="Java"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" title="Spring Boot"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" title="Kotlin"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" title="C++"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" title="C"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,cpp,c,js,html,css,react,mysql,postgres&theme=dark&perline=6" />
 </p>
 
 ---
@@ -53,7 +33,7 @@
 ## 📊 Linguagens nos repositórios
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaHermano&layout=donut&theme=radical&bg_color=1a0a10&border_color=e91e8c&title_color=e91e8c&text_color=fce4ec&langs_count=8&hide_border=false" width="340" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaHermano&layout=donut&bg_color=1a0a10&border_color=e91e8c&title_color=e91e8c&text_color=fce4ec&langs_count=8&hide_border=false&custom_title=Linguagens" width="340" alt="Top Languages"/>
 </p>
 
 ---
@@ -61,7 +41,9 @@
 ## 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IzabellaHermano&show_icons=true&theme=radical&bg_color=1a0a10&border_color=e91e8c&title_color=e91e8c&text_color=fce4ec&icon_color=f06292&hide_border=false" width="420" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IzabellaHermano&show_icons=true&bg_color=1a0a10&border_color=e91e8c&title_color=e91e8c&text_color=fce4ec&icon_color=f06292&hide_border=false&custom_title=Estatísticas&rank_icon=github" width="420" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IzabellaHermano&background=1a0a10&border=e91e8c&ring=e91e8c&fire=f06292&currStreakLabel=fce4ec&sideLabels=fce4ec&dates=ad1457&currStreakNum=ffffff&sideNums=ffffff" width="380" alt="GitHub Streak"/>
 </p>
 
 ---
