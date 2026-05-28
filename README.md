@@ -68,7 +68,7 @@
   <a href="mailto:izabellahermano1@gmail.com">
     <img src="https://img.shields.io/badge/Email-izabellahermano1%40gmail.com-e91e8c?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d0f1e" />
   </a>
-  &nbsp;
+  
   <a href="https://www.linkedin.com/in/izabella-hermano/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Izabella%20Hermano-ad1457?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d0f1e" />
   </a>
