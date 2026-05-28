@@ -53,7 +53,7 @@
 ## 📊 Linguagens nos repositórios
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut&theme=radical&bg_color=1a0a10&border_color=e91e8c&title_color=e91e8c&text_color=fce4ec&langs_count=8&hide_border=false" width="340" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzabellaHermano&layout=donut&theme=radical&bg_color=1a0a10&border_color=e91e8c&title_color=e91e8c&text_color=fce4ec&langs_count=8&hide_border=false" width="340" alt="Top Languages"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ## 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&bg_color=1a0a10&border_color=e91e8c&title_color=e91e8c&text_color=fce4ec&icon_color=f06292&hide_border=false" width="420" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IzabellaHermano&show_icons=true&theme=radical&bg_color=1a0a10&border_color=e91e8c&title_color=e91e8c&text_color=fce4ec&icon_color=f06292&hide_border=false" width="420" alt="GitHub Stats"/>
 </p>
 
 ---
