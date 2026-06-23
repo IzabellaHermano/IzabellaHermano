@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/19%20anos-e91e8c?style=for-the-badge&labelColor=2d0f1e&color=e91e8c" />
+  <img src="https://img.shields.io/badge/20%20anos-e91e8c?style=for-the-badge&labelColor=2d0f1e&color=e91e8c" />
   &nbsp;
   <img src="https://img.shields.io/badge/ADS-FATEC%20S%C3%A3o%20Paulo-ad1457?style=for-the-badge&labelColor=2d0f1e&color=ad1457" />
   &nbsp;
